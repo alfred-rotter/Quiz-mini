@@ -1,0 +1,6 @@
+Bugfix-lista.
+
+Bug 1: Frågorna vill inte lägga sig brevid varandra.
+Fixat: Använde "display: inline-block" så att diven inte tog upp hela längden av sidan.
+
+
