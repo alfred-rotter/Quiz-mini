@@ -1,0 +1,23 @@
+.container{
+/* border: 1px black solid; */
+padding-top: 10px;
+padding-bottom: 10px;
+
+}
+
+.fraga{
+ /* border: 1px black solid; */
+align-content: center;
+width: 350px;
+display: inline-block;
+margin: 20px;
+margin-left: 150px;
+
+
+}
+
+.fraga h1{
+font-size: 17px;
+
+}
+
