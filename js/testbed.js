@@ -12,8 +12,8 @@ var frågor = [
         svar: "Sassing"
     },
     {
-        fråga: "Antons ålder(mentalt)",
-        svar: "2"
+        fråga: "Antons ålder",
+        svar: "18"
     },
     {
         fråga: "Vilken kroppsdel skadade Anton förra året",
@@ -36,8 +36,8 @@ var frågor = [
         svar: "Hansson"
     },
     {
-        fråga: "Emils ålder (mentalt)",
-        svar: "30"
+        fråga: "Emils ålder",
+        svar: "17"
     },
     {
         fråga: "Har Emil en hund",
