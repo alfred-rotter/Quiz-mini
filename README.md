@@ -13,3 +13,6 @@ Fortsätter koda och försöker göra klart så mycket som möjligt.
 
 2020-02-12 <br>
 Finslipar uppgiften
+
+När jag gjorde quizen så använde jag mig av denna videon: https://www.youtube.com/watch?v=LQGTb112N_c 
+Jag använde även https://www.w3schools.com/ för att förstå vissa begrepp och för att lösa vissa problem.
